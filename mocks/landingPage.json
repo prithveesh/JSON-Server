@@ -1,0 +1,11 @@
+{
+    "data" : {
+        "address" : {
+            "city": "Hartford",
+            "zipCode": "12345",
+            "state": "Delhi",
+            "stateCode" : "CA",
+            "county" : "AS"
+        }
+    }
+}

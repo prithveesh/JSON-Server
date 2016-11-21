@@ -1,0 +1,16 @@
+{
+    "status": false,
+    "messageType": "info",
+    "altFlow": "",
+    "data": {
+        "fname": "Chris",
+        "lname": "Smith",
+        "dob": "04-02-1983",
+        "married": "Single",
+        "address": "2010 Alpine Dr Aiken",
+        "city": "American Folk",
+        "state": "Utah",
+        "zipcode": "29803",
+        "address": 1
+    }
+}
