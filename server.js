@@ -1,5 +1,5 @@
 var jsonServer = require('json-server')
-
+var config = require('./json-server.json');
 const fs = require('fs');
 const path = require('path');
 var jsonfolder = "./mocks/";
@@ -18,4 +18,4 @@ server.use(jsonServer.defaults());
 // Returns an Express router
 var router = jsonServer.router(db);
 server.use(router);
-server.listen(3000);
+server.listen(config.port);
